@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         返回顶部小助手
 // @name         HeiGoBackTop
-// @icon        https://raw.githubusercontent.com/ZTint/youhou/main/%E8%BF%94%E5%9B%9E%E9%A1%B6%E9%83%A8%E6%BA%90%E7%A0%81/gBJiXF.png
+// @icon         https://github.com/ZTint/youhou/blob/main/%E8%BF%94%E5%9B%9E%E9%A1%B6%E9%83%A8%E6%BA%90%E7%A0%81/gBJiXF.png?raw=true
 // @version      1.0.1
 // @namespace    https://hei-jack.github.io/heigobacktop/
 // @description  可能是最漂亮的返回顶部插件。可以用来返回页面顶部，或者跳转底部，也可以用来自动化滑动页面。更多用法等你探索。
